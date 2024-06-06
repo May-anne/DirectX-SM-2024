@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>E:\UNIVERSIDADE\5 período\Sistemas Multimidia\SpriteDemo\Debug\SpriteDemo.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\UNIVERSIDADE\5 período\Sistemas Multimidia\SpriteDemo\SpriteDemo\Shaders\Pixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\UNIVERSIDADE\5 período\Sistemas Multimidia\SpriteDemo\SpriteDemo\Shaders\Vertex.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
